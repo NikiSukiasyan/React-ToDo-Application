@@ -1,0 +1,15 @@
+.logo {
+  height: 193px;
+  margin-left: -84px;
+}
+
+.title {
+  font-family: Popins;
+  font-size: 40px;
+  position: absolute;
+  left: 43%;
+  top: 66px;
+}
+.title-container {
+  position: relative;
+}
